@@ -51,7 +51,7 @@ Este projeto realiza uma automação completa para geração e envio diário de 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seunome/relatorio-rpa.git
+git clone https://github.com/AmandaPereira95/Automacao-Relatorio-Diario
 cd relatorio-rpa
 ```
 
