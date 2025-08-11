@@ -1,0 +1,11 @@
+{
+    "input_path": "data/relatorio_base.xlsx",
+    "output_excel": "data/relatorio_consolidado.xlsx",
+    "output_pdf": "output/relatorio.pdf",
+    "email": {
+        "receiver": "danielfreiredacosta1@gmail.com",
+        "subject": "Relatório de Vendas - Diário",
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587
+    }
+}
