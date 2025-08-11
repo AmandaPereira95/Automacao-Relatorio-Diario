@@ -101,7 +101,3 @@ Bot RPA de Relatórios
 ```
 
 ---
-
-## 📮 Contato
-
-Este projeto foi desenvolvido por Daniel Freire da Costa como parte do portfólio de automação RPA com Python.
